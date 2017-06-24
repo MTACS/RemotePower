@@ -1,6 +1,5 @@
 # RemotePower
-Source code for RemotePower
 
-Personal Use Only
+Source Code for RemotePower
 
 2017 © MTAC Research
