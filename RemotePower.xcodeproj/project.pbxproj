@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		171DB39B1EFE0D1200D3C04F /* alarm.caf in Resources */ = {isa = PBXBuildFile; fileRef = 171DB39A1EFE0D1200D3C04F /* alarm.caf */; };
 		B845652D1A3977B30091DE93 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B845652C1A3977B30091DE93 /* main.m */; };
 		B84565301A3977B30091DE93 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B845652F1A3977B30091DE93 /* AppDelegate.m */; };
 		B84565331A3977B30091DE93 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B84565321A3977B30091DE93 /* ViewController.m */; };
@@ -62,7 +61,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		171DB39A1EFE0D1200D3C04F /* alarm.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = alarm.caf; path = ../../../alarm.caf; sourceTree = "<group>"; };
 		B84565271A3977B30091DE93 /* RemotePower.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RemotePower.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B845652B1A3977B30091DE93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B845652C1A3977B30091DE93 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -137,7 +135,6 @@
 		B84565291A3977B30091DE93 /* RemotePower */ = {
 			isa = PBXGroup;
 			children = (
-				171DB39A1EFE0D1200D3C04F /* alarm.caf */,
 				B845652E1A3977B30091DE93 /* AppDelegate.h */,
 				B845652F1A3977B30091DE93 /* AppDelegate.m */,
 				B84565311A3977B30091DE93 /* ViewController.h */,
@@ -346,7 +343,6 @@
 			files = (
 				B84565361A3977B30091DE93 /* Main.storyboard in Resources */,
 				B845653B1A3977B30091DE93 /* LaunchScreen.xib in Resources */,
-				171DB39B1EFE0D1200D3C04F /* alarm.caf in Resources */,
 				B84565381A3977B30091DE93 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
